@@ -154,12 +154,42 @@ Added:
 
 ---
 
+# Day 5
+
+## Objectives
+- Add advanced business intelligence metrics
+- Expand dashboard analytics
+
+## Tasks Completed
+
+### New KPI
+- Added Content Acceptance Score
+
+### Rank Analysis
+- Average popularity by rank tier
+- Explicit vs clean comparison across rank tiers
+
+### Artist Analysis
+- Top 10 most frequent artists
+
+### Executive Dashboard
+- France Market Insights panel
+- Executive Summary section
+
+## Key Findings
+- Explicit content dominates French charts
+- Album releases slightly outperform singles
+- Medium-duration songs are most common
+- Werenoi is the most frequently appearing artist
+
+## Learnings
+- Plotly advanced visualizations
+- Business KPI design
+- Executive reporting dashboards
+
+
 # Future Work
 
-## Day 5
-- Content Acceptance Score KPI
-- Rank Tier Comparison Dashboard
-- Dashboard Layout Improvements
 
 ## Day 6
 - Executive Summary Section
